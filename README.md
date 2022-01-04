@@ -9,7 +9,7 @@ These properties need to be updated to valid MySQL database connection informati
 
 ## License
 
-Copyright (c) 2021 Logan Willans
+Copyright (c) 2022 Logan Willans
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
