@@ -1,5 +1,5 @@
 # University Enrollment Application
- GUI application. Simulates university database. Saves data to remote MySQL server. Java application.
+This is a GUI application that simulates a university database. It saves data to remote MySQL server. The program is written in Java.
 
 ![alt text](https://cdn.pixabay.com/photo/2015/07/31/11/45/library-869061_960_720.jpg)
 
